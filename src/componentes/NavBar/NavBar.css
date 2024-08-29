@@ -1,0 +1,12 @@
+header {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    border-bottom: 3px solid gray;
+}
+
+li {
+    margin: 25px;
+    display: inline-block;
+    width: 10rem;
+}
